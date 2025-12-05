@@ -1,0 +1,8 @@
+{
+  "name": "Samiullah Official AI Studio",
+  "description": "An all-in-one AI creative suite for image generation, style transfer, 3D character design, animation, web development, and project management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
